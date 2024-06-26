@@ -112,3 +112,4 @@ pub struct NewData {
     pub field4: Vec<u8>,
     pub field5: u64,
 }
+

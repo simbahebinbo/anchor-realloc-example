@@ -1,5 +1,6 @@
 import * as anchor from "@coral-xyz/anchor";
 import {Program} from "@coral-xyz/anchor";
+// @ts-ignore
 import {Realloc} from "../target/types/realloc";
 import {expect} from "chai";
 
